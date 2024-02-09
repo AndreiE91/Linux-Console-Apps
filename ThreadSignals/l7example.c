@@ -5,7 +5,7 @@
 // The response to a received signal, as well as the functions that handle
 // signals are common to all threads of a process: functions signal or sigaction
 
-//  Defining the mask for a thread is done with the help of the
+// Defining the mask for a thread is done with the help of the
 // function pthread_sigmask, and for the whole process with the function
 // sigprocmask
 
